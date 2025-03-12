@@ -1,7 +1,7 @@
 # Mateo, Latin-American Spanish voice for RHVoice
 
 - This voice is [unlicense](https://choosealicense.com/licenses/unlicense/).
-- [Terms Of use](rmcspeech usage notes.docx) word document.
+- [Terms Of use](rmcspeech_usage_notes.docx) word document.
 
 ## Team
 
