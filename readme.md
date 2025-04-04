@@ -8,3 +8,12 @@
 - Mateo Cedillo - Speaker
 - Sergey Parshakov - sound engineer
 - Zvonimir Ztanecic - Suggestions for database, training of the final versions
+
+## Contact
+
+* [Mateo Cedillo](mailto:angelitomateocedillo@gmail.com)
+* [Zvonimir Ztanecic](mailto:rhvoiceslavic@gmail.com)
+
+## Support
+
+* [PayPal](http://paypal.me/rmcpantoja)
