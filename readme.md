@@ -7,6 +7,7 @@
 
 - Mateo Cedillo - Speaker
 - Sergey Parshakov - sound engineer
+- Sound Guard - last audio equalization and improvements to pauses in the final release
 - Zvonimir Ztanecic - Suggestions for database, training of the final versions
 
 ## Contact
