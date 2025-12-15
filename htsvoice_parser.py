@@ -4,9 +4,9 @@
 def extract_part(file_path, part):
     offsets = {
         # add offsets manually for now.
-        "dur": (33324, 123541),
+        "dur": (34044, 124655),
         #"dur": (33684, 123401),
-        "lf0": (2543245, 3078823)
+        "lf0": (2295413, 2793993)
         #"lf0": (2298952, 2811210)
     }
     if part not in offsets:
