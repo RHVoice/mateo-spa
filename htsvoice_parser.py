@@ -4,10 +4,8 @@
 def extract_part(file_path, part):
     offsets = {
         # add offsets manually for now.
-        "dur": (34044, 124655),
-        #"dur": (33684, 123401),
-        "lf0": (2295413, 2793993)
-        #"lf0": (2298952, 2811210)
+        "dur": (34964, 127477),
+        "lf0": (2272126, 2777140)
     }
     if part not in offsets:
         raise ValueError("Invalid part. Use 'dur' for DURATION_TREE or 'lf0' for STREAM_TREE[LF0].")
